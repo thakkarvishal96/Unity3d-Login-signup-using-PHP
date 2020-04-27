@@ -24,14 +24,6 @@ if ($result->num_rows > 0) {
     while($row = $result->fetch_assoc()) {
         if($row["password"]==$loginPassword){
             echo "Login Success.";
-            //Get User's data 
-
-            //Get Player Info.
-
-            //Modify Player Data.
-
-            //Update invenetory.
-            
         }
             else{
                 echo "Wrong Credential.";
