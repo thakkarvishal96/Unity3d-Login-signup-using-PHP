@@ -8,6 +8,10 @@
 3- Download this project. and Run
 
 Refrence Image from this project. 
+For registration.
 
 ![2](https://user-images.githubusercontent.com/18227137/80400328-4464ed80-88d8-11ea-9065-464340a17b5e.PNG)
 
+For Login
+
+![1](https://user-images.githubusercontent.com/18227137/80400444-6cece780-88d8-11ea-8c19-41cdb8829aad.PNG)
